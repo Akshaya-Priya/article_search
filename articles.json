@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "title": "Exploring the Cosmos",
+    "content": "The universe is vast and full of mysteries waiting to be uncovered. Astronomers use telescopes to peer into distant galaxies.",
+    "tags": [
+      "space",
+      "cosmos",
+      "astronomy"
+    ],
+    "createdAt": "2024-12-02T08:17:16.358Z"
+  },
+  {
+    "id": 2,
+    "title": "The Art of Cooking",
+    "content": "Cooking is both a science and an art. From perfecting the flavors to plating, it’s all about creativity.",
+    "tags": [
+      "food",
+      "cooking",
+      "recipes"
+    ],
+    "createdAt": "2024-12-02T08:18:32.394Z"
+  },
+  {
+    "id": 3,
+    "title": "Technological Advancements in AI",
+    "content": "Artificial Intelligence is revolutionizing industries with innovations in machine learning and natural language processing.",
+    "tags": [
+      "technology",
+      "AI",
+      "machine learning"
+    ],
+    "createdAt": "2024-12-02T08:19:16.758Z"
+  },
+  {
+    "id": 4,
+    "title": "The Rise of Artificial Intelligence",
+    "content": "Artificial Intelligence (AI) is transforming industries like healthcare, finance, and education. Its applications range from predictive analytics to natural language processing.",
+    "tags": [
+      "AI",
+      "technology",
+      "innovation"
+    ],
+    "createdAt": "2024-12-02T08:26:55.179Z"
+  },
+  {
+    "id": 5,
+    "title": "Understanding Machine Learning",
+    "content": "Machine Learning is a subset of AI that enables systems to learn and improve from experience without being explicitly programmed. Examples include recommendation systems and autonomous vehicles.",
+    "tags": [
+      "machine learning",
+      "AI",
+      "data science"
+    ],
+    "createdAt": "2024-12-02T08:27:18.435Z"
+  },
+  {
+    "id": 6,
+    "title": "AI Revolution in Modern Technology",
+    "content": "AI is at the forefront of modern technological advancements. From AI-powered virtual assistants to AI-driven medical diagnostics, the impact of AI on industries is undeniable. As AI continues to evolve, businesses are increasingly adopting AI solutions to stay competitive.",
+    "tags": [
+      "AI",
+      "technology",
+      "innovation"
+    ],
+    "createdAt": "2024-12-02T08:53:53.878Z"
+  },
+  {
+    "id": 7,
+    "title": "AI Revolution in AI Technology",
+    "content": "AI is at the forefront of modern technological advancements. From AI-powered virtual assistants to AI-driven medical diagnostics, the impact of AI on industries is undeniable. As AI continues to evolve, businesses are increasingly adopting AI solutions to stay competitive.",
+    "tags": [
+      "AI",
+      "technology",
+      "ML"
+    ],
+    "createdAt": "2024-12-02T09:16:20.906Z"
+  }
+]
